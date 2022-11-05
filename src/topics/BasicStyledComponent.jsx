@@ -8,6 +8,7 @@ const StyledButton = styled.button`
   padding: 15px 32px;
   text-align: center;
   font-size: 32px;
+  display: inline-block;
   cursor: pointer;
   transition: 0.3s all;
 `;
