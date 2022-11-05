@@ -1,0 +1,1 @@
+export { BasicStyledComponent } from "./BasicStyledComponent";
