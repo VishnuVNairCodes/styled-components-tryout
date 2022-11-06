@@ -18,6 +18,9 @@ const BasicStyledComponent = () => {
     <>
       <h1>Basic Styled Component</h1>
       <StyledButton>Styled Button</StyledButton>
+      <br />
+      <br />
+      <br />
     </>
   );
 };
